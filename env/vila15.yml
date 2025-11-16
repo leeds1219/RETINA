@@ -1,4 +1,4 @@
-name: vila15
+name: VILA
 channels:
   - conda-forge
   - defaults
@@ -231,4 +231,4 @@ dependencies:
       - xxhash==3.5.0
       - yacs==0.1.8
       - yarl==1.20.1
-prefix: /workspace/miniconda3/envs/vila15
+prefix: /workspace/miniconda3/envs/VILA
