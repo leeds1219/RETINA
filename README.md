@@ -21,7 +21,7 @@ The full dataset, including the large training set and the human-curated test se
 | Component | Size | Note |
 | :--- | :--- | :--- |
 | **Training Set** | 120k samples | Automatically generated via an LLM-driven pipeline. |
-| **Test Set** | 2k samples | Human-curated and fact-checked. |
+| **Test Set** | 2k samples | Human-curated. |
 
 ## ⚖️ Research Use and Liability Disclaimer
 
