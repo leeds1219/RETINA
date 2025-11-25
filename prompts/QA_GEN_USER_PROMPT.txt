@@ -1,0 +1,4 @@
+Main entity: {MAIN_ENTITY}
+Related entity: {RELATED_ENTITY}
+Relation: {RELATION_SENTENCE}
+Attribute: {ATTRIBUTE_SENTENCE}
