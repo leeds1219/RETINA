@@ -30,7 +30,7 @@ The full dataset, including the large training set and the human-curated test se
 
 ~~Since multi-hop examples are much harder to curate, this version is currently being generated without full manual curated test set.~~
 
-~~**This multi-hop dataset is entirely independent of the paper and is provided solely as a community resource.**~~
+**This multi-hop dataset is entirely independent of the paper and is provided solely as a community resource.**
 
 ## Acknowledgements
 We build apon [LinWeizheDragon/FLMR](https://github.com/LinWeizheDragon/FLMR/tree/main) and [lhdeng-gh/MuKA](https://github.com/lhdeng-gh/MuKA)
