@@ -1,4 +1,6 @@
-# ✨ RETINA: Relational Entity Text-Image kNowledge Augmented Benchmark
+# Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering
+
+## ✨ RETINA: Relational Entity Text-Image kNowledge Augmented Benchmark
 
 This repository provides the **RETINA** benchmark, a novel and large-scale dataset for **Multimodal Knowledge-Based Visual Question Answering (MKB-VQA)**.
 
