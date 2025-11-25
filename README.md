@@ -26,6 +26,8 @@ The full dataset, including the large training set and the human-curated test se
 ## Acknowledgements
 We build apon [LinWeizheDragon/FLMR](https://github.com/LinWeizheDragon/FLMR/tree/main) and [lhdeng-gh/MuKA](https://github.com/lhdeng-gh/MuKA)
 
+[Imagehash toolkit](https://github.com/jenssegers/imagehash)
+
 ## ⚖️ Research Use and Liability Disclaimer
 
 The RETINA dataset is intended for **non-commercial research purposes**. Users are solely responsible for any and all utilization of the dataset. The creators of this benchmark and their affiliated institutions shall not be held liable for any damages, consequences, or legal issues that may arise from its use.
