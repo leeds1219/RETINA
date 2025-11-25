@@ -155,6 +155,7 @@
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
         <h2 class="title is-3">Abstract</h2>
+        <img src="./static/images/fig_01.png" class="center"/>
         <div class="content has-text-justified">
           <p>
             Existing Multimodal Knowledge-Based Visual Question Answering (MKB-VQA) benchmarks suffer from “visual shortcuts”, as the query image typically matches the primary subject entity of the target document. We demonstrate that models can exploit these shortcuts, achieving comparable results using visual cues alone. To address this, we introduce Relational Entity Text-Image kNowledge Augmented (RETINA) benchmark, automatically constructed using an LLM-driven pipeline, consisting of a training and human-curated test set. RETINA contains queries referencing secondary subjects (i.e. related entities) and pairs them with images of these related entities, removing the visual shortcut. When evaluated on RETINA existing models show significantly degraded performance, confirming their reliance on the shortcut. Furthermore, we propose Multi-Image MultImodal Retriever (MIMIR), which enriches document embeddings by augmenting images of multiple related entities, effectively handling RETINA, unlike prior work that uses only a single image per document. Our experiments validate the limitations of existing benchmarks and demonstrate the effectiveness of RETINA and MIMIR.
@@ -171,8 +172,8 @@
     <!-- Method -->
     <div class="columns is-centered">
       <div class="column is-full-width">
-        <h2 class="title is-3 has-text-centered">Method</h2>
-        <img src="./static/images/rescore.png" class="center"/>
+        <h2 class="title is-3 has-text-centered">RETINA Benchmark</h2>
+        <img src="./static/images/fig_02.png" class="center"/>
         <div class="content has-text-justified">
           <p>
             <b>Overview of Lorem Ipsum</b>
@@ -187,10 +188,10 @@
 
     <div class="columns is-centered">
       <div class="column is-full-width">
-        <h2 class="title is-3 has-text-centered">Results</h2>
+        <h2 class="title is-3 has-text-centered">MIMIR</h2>
         <!--<embed src="Lorem Ipsum" type="Lorem Ipsum" width="100%" height="600px"/> -->
         <div style="text-align: center;">
-          <img src="Lorem Ipsum" class="center" style="width: 90%;" />
+          <img src="./static/images/fig_03.png" class="center"/>
         </div>
         <div class="content has-text-justified">
           <p>
