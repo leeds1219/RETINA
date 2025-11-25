@@ -16,9 +16,11 @@ The RETINA bench, including the large training set and the human-curated test se
 
 [**Access the RETINA Dataset**](https://huggingface.co/datasets/Lee1219/RETINA)
 
-For EVQA and Infoseek, including the query images and knowledge base, please refer to [Lin Weizhe et al.](https://arxiv.org/abs/2402.08327):
+For EVQA and Infoseek, including the query images and textual KB, please refer to [Lin Weizhe et al.](https://arxiv.org/abs/2402.08327):
 
 [**Access the M2KR Dataset**](https://github.com/LinWeizheDragon/FLMR/tree/main)
+
+For the document images please refer to [Lianghao Deng et al.](https://github.com/lhdeng-gh/MuKA).
 
 ### Statistics
 
