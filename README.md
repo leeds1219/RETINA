@@ -4,13 +4,17 @@
 
 This repository provides the **RETINA** benchmark, a novel and large-scale dataset for **Multimodal Knowledge-Based Visual Question Answering (MKB-VQA)**.
 
-RETINA was introduced to overcome a critical limitation in existing MKB-VQA datasets: the **"visual shortcut."** Previous models could often succeed by simply matching the query image to the target document's primary subject entity.
+RETINA was introduced to overcome a critical limitation in existing MKB-VQA datasets: the **"visual shortcut."** Models could often succeed by simply matching the query image to the target document's primary subject entity.
 
 ## 🚀 Key Feature: Breaking the Shortcut
 
-RETINA is explicitly designed to eliminate this bias, forcing models to rely on true relational knowledge and multi-hop reasoning:
+RETINA is explicitly designed to eliminate this bias, forcing models to rely on true relational knowledge.
 
-The benchmark's construction process ensures that the **query image** is of a **secondary, related entity** mentioned in the document, rather than the main subject. This setup reflects complex, real-world scenarios where knowledge retrieval must go beyond direct visual matching.
+The benchmark's construction process ensures that the **query image** is of a **secondary, related entity** mentioned in the document, rather than the main subject. 
+
+For instance, given a question "Waht animal mainly eats this fruit?" with an image of an apple, the answer might be in the document about "Bears" not "apples".
+
+This setup reflects complex, real-world scenarios where knowledge retrieval must go beyond direct visual matching.
 
 ## 💾 Dataset Access
 **(Status: Cleaning up the path and adding image)**
