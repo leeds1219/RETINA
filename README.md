@@ -12,9 +12,13 @@ The benchmark's construction process ensures that the **query image** is of a **
 
 ## 💾 Dataset Access
 
-The full dataset, including the large training set and the human-curated test set, is available for download and use on Hugging Face:
+The RETINA bench, including the large training set and the human-curated test set, is available for download and use on Hugging Face:
 
 [**Access the RETINA Dataset**](https://huggingface.co/datasets/Lee1219/RETINA)
+
+For EVQA and Infoseek, including the query images and knowledge base, please refer to [Lin Weizhe et al.](https://arxiv.org/abs/2402.08327):
+
+[**Access the M2KR Dataset**](https://github.com/LinWeizheDragon/FLMR/tree/main)
 
 ### Statistics
 
