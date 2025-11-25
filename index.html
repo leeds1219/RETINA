@@ -215,7 +215,7 @@ collect a corresponding image from M2KR Images. The query is then paraphrased to
           <p>
             <b>Overview of MIMIR Document Encoder Architecture.</b>
             (a) given a document, related named entities are identified with an
-LLM [2], and corresponding images are collected from the KB; (b) textual, global image, and patch-level features are extracted, with patch
+LLM, and corresponding images are collected from the KB; (b) textual, global image, and patch-level features are extracted, with patch
 features attending to textual features through cross-attention to yield multimodal features; and (c) entity token embeddings are incorporated
 into the textual features prior to cross-attention for richer contextualization; (d) the final document embedding jointly integrates textual,
 global, and multimodal features projected into the same embedding space.
@@ -235,9 +235,6 @@ global, and multimodal features projected into the same embedding space.
 are in green; query entity in GT documents are highlighted in green. While MuKA
 is biased toward visual shortcuts and often retrieves documents containing images similar to the query, MIMIR leverages multiple related
 image augmented document embeddings to correctly retrieve the GT document.
-          </p>
-          <p>
-            Lorem Ipsum
           </p>
         </div>
       </div>
