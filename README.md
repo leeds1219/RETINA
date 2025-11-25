@@ -26,7 +26,7 @@ The full dataset, including the large training set and the human-curated test se
 ## Acknowledgements
 We build apon [LinWeizheDragon/FLMR](https://github.com/LinWeizheDragon/FLMR/tree/main) and [lhdeng-gh/MuKA](https://github.com/lhdeng-gh/MuKA)
 
-[Imagehash toolkit](https://github.com/jenssegers/imagehash)
+For image verification we use [Imagehash toolkit](https://github.com/jenssegers/imagehash).
 
 ## ⚖️ Research Use and Liability Disclaimer
 
