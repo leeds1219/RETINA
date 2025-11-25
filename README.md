@@ -41,7 +41,7 @@ For the document images please refer to [Lianghao Deng et al.](https://github.co
 
 **This multi-hop dataset is independent of the paper and is provided solely as a community resource.**
 
-## Acknowledgements
+## ⚖️ Acknowledgements
 We build apon [LinWeizheDragon/FLMR](https://github.com/LinWeizheDragon/FLMR/tree/main) and [lhdeng-gh/MuKA](https://github.com/lhdeng-gh/MuKA)
 
 For image verification we use [Imagehash toolkit](https://github.com/jenssegers/imagehash).
