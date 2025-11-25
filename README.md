@@ -11,6 +11,7 @@ RETINA is explicitly designed to eliminate this bias, forcing models to rely on 
 The benchmark's construction process ensures that the **query image** is of a **secondary, related entity** mentioned in the document, rather than the main subject. This setup reflects complex, real-world scenarios where knowledge retrieval must go beyond direct visual matching.
 
 ## 💾 Dataset Access
+**(Status: Cleaning up the path)**
 
 The RETINA bench, including the large training set and the human-curated test set, is available for download and use on Hugging Face:
 
