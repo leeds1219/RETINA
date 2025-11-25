@@ -16,8 +16,10 @@ The full dataset, including the large training set and the human-curated test se
 
 [**Access the RETINA Dataset**](https://huggingface.co/datasets/Lee1219/RETINA)
 
-We are also preparing an additional multi-hop version of the dataset built on top of the original one-hop setting. 
+We are also preparing an additional multi-hop version of the dataset built on top of the original one-hop setting.
+
 Since multi-hop examples are much harder to curate, this version is currently being generated without full manual curated test set. 
+
 **This multi-hop dataset is entirely independent of the paper and is provided solely as a community resource.**
 
 ### Statistics
