@@ -12,7 +12,7 @@ RETINA is explicitly designed to eliminate this bias, forcing models to rely on 
 
 The benchmark's construction process ensures that the **query image** is of a **secondary, related entity** mentioned in the document, rather than the main subject. 
 
-For instance, given a question "Waht animal mainly eats this fruit?" with an image of an apple, the answer might be in the document about "Bears" not "apples".
+For instance, given a question "What animal mainly eats this fruit?" with an image of an apple, the answer might be in the document about "Bears" not "apples".
 
 This setup reflects complex, real-world scenarios where knowledge retrieval must go beyond direct visual matching.
 
