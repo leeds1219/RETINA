@@ -55,10 +55,13 @@ For image verification we use [Imagehash toolkit](https://github.com/jenssegers/
 The RETINA dataset is intended for **non-commercial research purposes**. Users are solely responsible for any and all utilization of the dataset. The creators of this benchmark and their affiliated institutions shall not be held liable for any damages, consequences, or legal issues that may arise from its use.
 
 ```
-@article{lee2025breaking,
-  title={Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering},
-  author={Lee, Dosung and Jung, Sangwon and Seo, Paul Hongsuck},
-  year={2025},
-  journal={Preprint}
+@misc{lee2025breakingvisualshortcutsmultimodal,
+      title={Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering}, 
+      author={Dosung Lee and Sangwon Jung and Boyoung Kim and Minyoung Kim and Sungyeon Kim and Junyoung Sung and Paul Hongsuck Seo},
+      year={2025},
+      eprint={2511.22843},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.22843}, 
 }
 ```
