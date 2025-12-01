@@ -16,6 +16,8 @@ For instance, given a question "What animal mainly eats this fruit?" with an ima
 
 This setup reflects complex, real-world scenarios where knowledge retrieval must go beyond direct visual matching.
 
+![Examples](assets/fig_04.png)
+
 ## 💾 Dataset Access
 **(Status: Cleaning up the path and adding image)**
 
