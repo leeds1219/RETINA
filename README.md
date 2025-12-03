@@ -45,7 +45,7 @@ This setup reflects complex, real-world scenarios where knowledge retrieval must
 
 ## 💾 Dataset Access
 - [x] Release RETINA bench.
-- [ ] Add usage documentation.
+- [ ] Remove unused images.
 - [ ] Clean up directory structure and paths.
 - [ ] Extend RETINA for multi-hop
 
@@ -57,7 +57,7 @@ For EVQA and Infoseek, including the query images and textual KB, please refer t
 
 [**Access the M2KR Dataset**](https://github.com/LinWeizheDragon/FLMR/tree/main)
 
-For the document images please refer to [Lianghao Deng et al.](https://github.com/lhdeng-gh/MuKA).
+For the document images please refer to [Lianghao Deng et al.](https://github.com/lhdeng-gh/MuKA/tree/main/data_preparation) and images.zip.
 
 ### Statistics
 
