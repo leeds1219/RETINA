@@ -29,24 +29,6 @@ def parse_qa(text: str):
     else:
         raise ValueError("Invalid QA format")
 
-def get_wikipedia_image_url(title):
-    endpoint = "https://en.wikipedia.org/w/api.php"
-    params = {
-        "action": "query",
-        "format": "json",
-        "prop": "pageimages",
-        "titles": title,
-        "pithumbsize": 1000
-    }
-    response = requests.get(endpoint, params=params)
-    data = response.json()
-    pages = data.get("query", {}).get("pages", {})
-    for page_id in pages:
-        page = pages[page_id]
-        if "thumbnail" in page:
-            return page["thumbnail"]["source"]
-    return None
-
 def load_prompts(root_path):
     prompt_files = {
         "RELATED_ENTITY_SYSTEM_PROMPT": "RELATED_ENTITY_SYSTEM_PROMPT.txt",
@@ -100,9 +82,7 @@ def prepare_paired_prompts(entity_data, source_system_prompt, source_user_prompt
                 continue
             entity_info = entity_lookup.get(related_entity_name)
             if not entity_info:
-                wiki_url = get_wikipedia_image_url(related_entity_name)
-                if not wiki_url:
-                    continue
+                continue
             relation = related_entity_info['relation']
             source_title = related_entity_info.get('source_title', None)
             paired_prompts.append({
@@ -288,7 +268,6 @@ def main():
                     "related_qa": paired_prompts[idx].get("related_qa", {}),
                     "source_title": paired_prompts[idx].get("source_title", {}),
                     "source_image_url": paired_prompts[idx]["source_image_url"],
-                    "related_image_url": get_wikipedia_image_url(paired_prompts[idx]["related_entity"])
                 }
                 f_out.write(json.dumps(output_dict, ensure_ascii=False) + "\n")
 
