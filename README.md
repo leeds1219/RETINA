@@ -63,15 +63,6 @@ For the document images please refer to [Lianghao Deng et al.](https://github.co
 | **Training Set** | 120k samples | Automatically generated via an LLM-driven pipeline. |
 | **Test Set** | 2k samples | Human-curated. |
 
-### Multi-hop Extension
-**(Status: TBD)**
-
-~~We are also preparing an additional multi-hop version of the dataset built on top of the original one-hop setting.~~
-
-~~Since multi-hop examples are much harder to curate, this version is currently being generated without full manual curated test set.~~
-
-**This multi-hop dataset is independent of the paper and is provided solely as a community resource.**
-
 ## ⚖️ Acknowledgements
 We build apon [LinWeizheDragon/FLMR](https://github.com/LinWeizheDragon/FLMR/tree/main) and [lhdeng-gh/MuKA](https://github.com/lhdeng-gh/MuKA)
 
