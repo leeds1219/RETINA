@@ -45,7 +45,7 @@ This setup reflects complex, real-world scenarios where knowledge retrieval must
 
 ## 💾 Dataset Access
 - [x] Release RETINA bench.
-- [ ] Add full usage documentation.
+- [ ] Add usage documentation.
 - [ ] Clean up directory structure and paths.
 - [ ] Extend RETINA for multi-hop
 
