@@ -1,4 +1,29 @@
-# Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering
+<br><br>
+
+<p align="center">
+  <img src="assets/korea_university.png" alt="Korea University" height="36">&nbsp;&nbsp;&nbsp;
+  <img src="assets/MIIL_full_logo.svg" alt="MIIL" height="36">&nbsp;&nbsp;&nbsp;
+  <img src="assets/kaist_logo.png" alt="kaist" height="36">&nbsp;&nbsp;&nbsp;
+  <img src="assets/Amazon_logo.png" alt="Amazon" height="36">&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+# <p align="center">Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering</p>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2511.22843">arXiv</a> | <a href="https://leeds1219.github.io//RETINA">Project</a>
+</p>
+
+<p align="center">
+  by <a href="https://leeds1219.github.io/">Dosung Lee</a>,
+  <a href="https://successful-humor-4db.notion.site/Sangwon-Jung-70109a49767a470092a6ee0d02c78313">Sangwon Jung</a>,
+  <a href="https://bykimby.github.io/">Boyoung Kim</a>,
+  <a href="https://github.com/EuroMinyoung186">Minyoung Kim</a>,
+  <a href="https://sung-yeon-kim.github.io/">Sungyeon Kim</a>,
+  <a href="https://www.linkedin.com/in/joonyeongs/">Junyoung Sung</a>,
+  <a href="https://miil.korea.ac.kr/">Paul Hongsuck Seo</a>
+</p>
 
 ## ✨ RETINA: Relational Entity Text-Image kNowledge Augmented Benchmark
 
