@@ -67,7 +67,7 @@ For the document images please refer to [Lianghao Deng et al.](https://github.co
 | **Test Set** | 2k samples | Human-curated. |
 
 ## ⚖️ Acknowledgements
-We build apon [M2KR_Images](https://huggingface.co/datasets/BByrneLab/M2KR_Images), [M2KR_passages](https://huggingface.co/datasets/BByrneLab/multi_task_multi_modal_knowledge_retrieval_benchmark_M2KR) and [lhdeng-gh/MuKA](https://github.com/lhdeng-gh/MuKA)
+We build apon [M2KR_Images](https://huggingface.co/datasets/BByrneLab/M2KR_Images), [M2KR_passages](https://huggingface.co/datasets/BByrneLab/multi_task_multi_modal_knowledge_retrieval_benchmark_M2KR) and [lhdeng-gh/MuKA](https://github.com/lhdeng-gh/MuKA).
 For image verification we use [Imagehash toolkit](https://github.com/jenssegers/imagehash).
 The RETINA dataset is intended for **non-commercial research purposes**. Users are solely responsible for any and all utilization of the dataset. 
 The creators of this benchmark and their affiliated institutions shall not be held liable for any damages, consequences, or legal issues that may arise from its use.
