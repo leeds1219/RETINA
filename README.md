@@ -44,7 +44,7 @@ This setup reflects complex, real-world scenarios where knowledge retrieval must
 ![Examples](assets/fig_04.png)
 
 ## 💾 Dataset Access
-**(Status: Cleaning up the path and adding image)**
+**- [] (Status: Cleaning up the path and adding image)**
 
 The RETINA bench, including the large training set and the human-curated test set, is available for download and use on Hugging Face:
 
