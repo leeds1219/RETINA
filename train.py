@@ -285,9 +285,6 @@ def main():
         model.transformer_mapping_input_linear, # Linear
         model.transformer_mapping_output_linear, # Linear
     ]
-    ############################################################
-    learnable_ref_emb = None # TODO: incorporate here
-    ############################################################
     assert set(id(p) for p in model.parameters()) == set(id(p) \
         for module in vision_encoder_modules + text_encoder_modules \
             + mapping_structure_modules + non_mapping_structure_modules
