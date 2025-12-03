@@ -57,7 +57,7 @@ For EVQA and Infoseek, including the query images and textual KB, please refer t
 
 [**Access the M2KR Dataset**](https://github.com/LinWeizheDragon/FLMR/tree/main)
 
-For the document images please refer to [Lianghao Deng et al.](https://github.com/lhdeng-gh/MuKA/tree/main/data_preparation) and images.zip.
+For the document images please refer to [Lianghao Deng et al.](https://github.com/lhdeng-gh/MuKA/tree/main/data_preparation) and [images.zip](https://huggingface.co/datasets/Lee1219/RETINA).
 
 ### Statistics
 
