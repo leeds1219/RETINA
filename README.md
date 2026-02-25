@@ -3,8 +3,7 @@
 <p align="center">
   <img src="assets/korea_university.png" alt="Korea University" height="36">&nbsp;&nbsp;&nbsp;
   <img src="assets/MIIL_full_logo.svg" alt="MIIL" height="36">&nbsp;&nbsp;&nbsp;
-  <img src="assets/kaist_logo.png" alt="kaist" height="36">&nbsp;&nbsp;&nbsp;
-  <img src="assets/Amazon_logo.png" alt="Amazon" height="36">&nbsp;&nbsp;&nbsp;
+  <img src="assets/kaist_logo.png" alt="kaist" height="36">&nbsp;&nbsp;&nbsp; 
 </p>
 
 <br>
