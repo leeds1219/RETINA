@@ -43,9 +43,10 @@ This setup reflects complex, real-world scenarios where knowledge retrieval must
 ![Examples](assets/fig_04.png)
 
 ## 💾 Dataset Access
+
+TODO-List
 - [ ] Release RETINA bench.
 - [ ] Clean up directory structure and paths.
-- [ ] Extend RETINA for multi-hop
 
 The RETINA bench, including the large training set and the human-curated test set, is available for download and use on Hugging Face:
 
